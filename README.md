@@ -82,6 +82,6 @@ The following enhancements are planned or suggested for future development:
 * **Dynamic ATM Allocation:** Implement logic to bring more ATMs online **during peak hours** and scale down during off-peak times.
 * **Service Time Optimization Modeling:** Incorporate variables to model the impact of faster card reading technologies or streamlined automated processes to see the real-world benefit of reduced service time.
 * **Dynamic Queue Management:** Implement algorithms for prioritizing urgent or simple transactions (e.g., balance check vs. large withdrawal) to better manage the queue and reduce perceived wait times.
-"""
+
 
 
