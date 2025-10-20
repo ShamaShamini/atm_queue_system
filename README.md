@@ -3,11 +3,17 @@
 This project simulates the performance of an ATM queue system, evaluating how different configurations (e.g., number of ATMs, customer arrival rates, and service times) affect wait times, queue length, and system efficiency.
 #### Features
 Simulates ATM queues with varying conditions.
-Tracks metrics: Average wait time, Peak wait time, and Queue length.
+Tracks metrics:
+-Average wait time
+-Peak wait time
+-Queue length.
 Visualizes results with plots (e.g., line plots and bar charts).
 ##### Requirements
-Python 3.80 or above 
-Libraries: matplotlib, numpy, pandas
+-Python 3.80 or above 
+-Libraries: 
+-matplotlib
+-numpy
+-pandas
 Install dependencies:
 ## pip install matplotlib numpy pandas
 ### Usage
