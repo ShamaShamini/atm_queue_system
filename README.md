@@ -1,4 +1,4 @@
-"""
+
 # ATM Queue System Simulation 🏧
 
 This project provides a discreet event simulation of an Automated Teller Machine (ATM) queueing system. It is designed to evaluate the performance and efficiency of the system under various operational configurations.
