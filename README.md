@@ -75,7 +75,7 @@ The simulation is designed to test the impact of several key factors:
 
 ---
 
-## 📈 Potential Improvements (Future Work)
+## 📈 Potential Improvements 
 
 The following enhancements are planned or suggested for future development:
 
