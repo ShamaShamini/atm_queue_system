@@ -53,7 +53,7 @@ To run the simulation and view the results, execute the main Python script from 
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [repository_link_here]
+    git clone [https://github.com/ShamaShamini/atm_queue_system]
     cd atm-queue-simulation
     ```
 2.  **Run the Simulation:**
